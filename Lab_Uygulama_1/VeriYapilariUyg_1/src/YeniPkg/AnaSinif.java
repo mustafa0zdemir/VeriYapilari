@@ -101,6 +101,7 @@ public class AnaSinif {
 		
 		// Bu nesnenin değerlerini yazdırma
 		anasinif.ikinciSinifDegerYazdir(iks);
+		scanner.close();
 		
 	
 	}
