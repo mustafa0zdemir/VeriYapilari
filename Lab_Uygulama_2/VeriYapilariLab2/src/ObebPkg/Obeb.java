@@ -8,7 +8,7 @@ public class Obeb {
 		if(b==0) {
 			return a;
 		}
-		return obeb(a,a%b);
+		return obeb(b,a%b);
 	}
 	public static void main(String[] args) {
 		
